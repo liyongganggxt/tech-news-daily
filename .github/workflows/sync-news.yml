@@ -2,9 +2,14 @@ name: Daily Tech News Sync
 
 on:
   schedule:
-    # 每20分钟执行一次
+    # 每20分钟执行一次（GitHub 可能延迟5-30分钟）
     - cron: '*/20 * * * *'
   workflow_dispatch:   # 允许手动触发
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch_news.py'
+      - '.github/workflows/sync-news.yml'
 
 permissions:
   contents: write      # 允许提交文件
