@@ -2,8 +2,8 @@ name: Daily Tech News Sync
 
 on:
   schedule:
-    # 每天 UTC 02:00 (北京时间 10:00) 执行
-    - cron: '0 2 * * *'
+    # 每20分钟执行一次
+    - cron: '*/20 * * * *'
   workflow_dispatch:   # 允许手动触发
 
 permissions:
