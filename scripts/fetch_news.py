@@ -14,7 +14,9 @@ import html
 import os
 
 # 科技类 RSS 源列表（公开免费，无需 API Key）
+# 5个中文权威科技媒体 + 10个英文权威科技媒体
 RSS_FEEDS = [
+    # ── 中文媒体 (5) ──
     {
         "name": "IT之家",
         "url": "https://www.ithome.com/rss/",
@@ -22,11 +24,30 @@ RSS_FEEDS = [
         "lang": "zh"
     },
     {
-        "name": "Hacker News Top Stories",
-        "url": "https://hnrss.org/frontpage",
-        "category": "Tech Community",
-        "lang": "en"
+        "name": "36氪",
+        "url": "https://36kr.com/feed",
+        "category": "创投科技",
+        "lang": "zh"
     },
+    {
+        "name": "少数派",
+        "url": "https://sspai.com/feed",
+        "category": "效率工具",
+        "lang": "zh"
+    },
+    {
+        "name": "虎嗅",
+        "url": "https://www.huxiu.com/rss/0.xml",
+        "category": "商业科技",
+        "lang": "zh"
+    },
+    {
+        "name": "极客公园",
+        "url": "https://www.geekpark.net/rss",
+        "category": "极客创新",
+        "lang": "zh"
+    },
+    # ── 英文媒体 (10) ──
     {
         "name": "The Verge",
         "url": "https://www.theverge.com/rss/index.xml",
@@ -34,9 +55,9 @@ RSS_FEEDS = [
         "lang": "en"
     },
     {
-        "name": "Wired",
-        "url": "https://www.wired.com/feed/rss",
-        "category": "Tech & Science",
+        "name": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
+        "category": "Tech Analysis",
         "lang": "en"
     },
     {
@@ -46,21 +67,51 @@ RSS_FEEDS = [
         "lang": "en"
     },
     {
+        "name": "Wired",
+        "url": "https://www.wired.com/feed/rss",
+        "category": "Tech & Science",
+        "lang": "en"
+    },
+    {
         "name": "MIT Technology Review",
         "url": "https://www.technologyreview.com/feed/",
         "category": "Deep Tech",
         "lang": "en"
     },
     {
-        "name": "Ars Technica",
-        "url": "https://feeds.arstechnica.com/arstechnica/index",
-        "category": "Tech Analysis",
+        "name": "Engadget",
+        "url": "https://www.engadget.com/rss.xml",
+        "category": "Consumer Tech",
+        "lang": "en"
+    },
+    {
+        "name": "ZDNet",
+        "url": "https://www.zdnet.com/news/rss.xml",
+        "category": "Enterprise Tech",
+        "lang": "en"
+    },
+    {
+        "name": "The Register",
+        "url": "https://www.theregister.com/headlines.rss",
+        "category": "IT & Dev",
+        "lang": "en"
+    },
+    {
+        "name": "BBC Technology",
+        "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "category": "Global Tech",
+        "lang": "en"
+    },
+    {
+        "name": "Hacker News",
+        "url": "https://hnrss.org/frontpage",
+        "category": "Tech Community",
         "lang": "en"
     },
 ]
 
 ITEMS_PER_FEED = 10  # 每个源最多抓取条目数
-TOTAL_LIMIT = 80     # 总条目上限
+TOTAL_LIMIT = 150    # 总条目上限
 
 
 def clean_html(raw_html):
@@ -100,7 +151,7 @@ def fetch_rss(feed_info):
     }
     try:
         req = urllib.request.Request(url, headers=headers)
-        with urllib.request.urlopen(req, timeout=15) as resp:
+        with urllib.request.urlopen(req, timeout=20) as resp:
             content = resp.read()
         root = ET.fromstring(content)
         ns = {}
