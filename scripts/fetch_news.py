@@ -16,6 +16,12 @@ import os
 # 科技类 RSS 源列表（公开免费，无需 API Key）
 RSS_FEEDS = [
     {
+        "name": "IT之家",
+        "url": "https://www.ithome.com/rss/",
+        "category": "科技资讯",
+        "lang": "zh"
+    },
+    {
         "name": "Hacker News Top Stories",
         "url": "https://hnrss.org/frontpage",
         "category": "Tech Community",
@@ -53,8 +59,8 @@ RSS_FEEDS = [
     },
 ]
 
-ITEMS_PER_FEED = 8  # 每个源最多抓取条目数
-TOTAL_LIMIT = 60    # 总条目上限
+ITEMS_PER_FEED = 10  # 每个源最多抓取条目数
+TOTAL_LIMIT = 80     # 总条目上限
 
 
 def clean_html(raw_html):
@@ -155,7 +161,7 @@ def main():
     all_items = []
 
     for feed in RSS_FEEDS:
-        print(f"  Fetching: {feed['name']}")
+        print(f"  Fetching: {feed['name']}", flush=True)
         items = fetch_rss(feed)
         all_items.extend(items)
         print(f"    Got {len(items)} items")
