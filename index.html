@@ -507,7 +507,8 @@
     document.getElementById('error-container').innerHTML = '';
 
     try {
-      const resp = await fetch(`news.json?t=${Date.now()}`);
+      const basePath = window.location.pathname.replace(/\/$/, '');
+      const resp = await fetch(`${basePath}/news.json?t=${Date.now()}`);
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       const data = await resp.json();
 
