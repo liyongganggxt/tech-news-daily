@@ -36,9 +36,9 @@ RSS_FEEDS = [
         "lang": "zh"
     },
     {
-        "name": "虎嗅",
-        "url": "https://www.huxiu.com/rss/0.xml",
-        "category": "商业科技",
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/feed",
+        "category": "数码生活",
         "lang": "zh"
     },
     {
