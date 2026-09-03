@@ -1,30 +1,12 @@
 {
-  "updated_at": "2026-09-03T04:42:38.279896+00:00",
+  "updated_at": "2026-09-03T09:36:39.072088+00:00",
   "total": 130,
   "items": [
     {
-      "title": "Google avoids a breakup of its ad tech business",
-      "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:38.279837+00:00",
-      "source": "Hacker News",
-      "category": "Tech Community",
-      "lang": "en"
-    },
-    {
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:38.279823+00:00",
-      "source": "Hacker News",
-      "category": "Tech Community",
-      "lang": "en"
-    },
-    {
-      "title": "Embedded Rust RTOS vs. C RTOS",
+      "title": "Async Rust vs RTOS showdown (2022)",
       "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.279808+00:00",
+      "pubDate": "2026-09-03T09:36:39.072014+00:00",
       "source": "Hacker News",
       "category": "Tech Community",
       "lang": "en"
@@ -33,7 +15,7 @@
       "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
       "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.279779+00:00",
+      "pubDate": "2026-09-03T09:36:39.071998+00:00",
       "source": "Hacker News",
       "category": "Tech Community",
       "lang": "en"
@@ -42,7 +24,7 @@
       "title": "Muse Spark 1.3",
       "link": "https://developer.meta.com/ai/models/muse-spark/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.279764+00:00",
+      "pubDate": "2026-09-03T09:36:39.071982+00:00",
       "source": "Hacker News",
       "category": "Tech Community",
       "lang": "en"
@@ -51,7 +33,7 @@
       "title": "Fable 5.1 World Modeling",
       "link": "https://github.com/PhiloLabs/fable51-worlds",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.279751+00:00",
+      "pubDate": "2026-09-03T09:36:39.071967+00:00",
       "source": "Hacker News",
       "category": "Tech Community",
       "lang": "en"
@@ -60,7 +42,7 @@
       "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
       "link": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.279737+00:00",
+      "pubDate": "2026-09-03T09:36:39.071952+00:00",
       "source": "Hacker News",
       "category": "Tech Community",
       "lang": "en"
@@ -69,7 +51,7 @@
       "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
       "link": "https://nango.dev/careers",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.279721+00:00",
+      "pubDate": "2026-09-03T09:36:39.071934+00:00",
       "source": "Hacker News",
       "category": "Tech Community",
       "lang": "en"
@@ -78,7 +60,7 @@
       "title": "Reasons robotics is hard",
       "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.279704+00:00",
+      "pubDate": "2026-09-03T09:36:39.071916+00:00",
       "source": "Hacker News",
       "category": "Tech Community",
       "lang": "en"
@@ -87,25 +69,34 @@
       "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
       "link": "https://news.ycombinator.com/item?id=49543530",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.279672+00:00",
+      "pubDate": "2026-09-03T09:36:39.071900+00:00",
       "source": "Hacker News",
       "category": "Tech Community",
       "lang": "en"
     },
     {
-      "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-      "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
+      "title": "Pre-Release of Polars 2.0",
+      "link": "https://pola.rs/posts/announcing-polars-2/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.010815+00:00",
-      "source": "BBC Technology",
-      "category": "Global Tech",
+      "pubDate": "2026-09-03T09:36:39.071877+00:00",
+      "source": "Hacker News",
+      "category": "Tech Community",
+      "lang": "en"
+    },
+    {
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "link": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:39.071849+00:00",
+      "source": "Hacker News",
+      "category": "Tech Community",
       "lang": "en"
     },
     {
       "title": "I've been to Gamescom six times - here's what excited me this year",
       "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.010784+00:00",
+      "pubDate": "2026-09-03T09:36:34.312749+00:00",
       "source": "BBC Technology",
       "category": "Global Tech",
       "lang": "en"
@@ -114,7 +105,7 @@
       "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
       "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.010769+00:00",
+      "pubDate": "2026-09-03T09:36:34.312732+00:00",
       "source": "BBC Technology",
       "category": "Global Tech",
       "lang": "en"
@@ -123,7 +114,7 @@
       "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
       "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.010753+00:00",
+      "pubDate": "2026-09-03T09:36:34.312716+00:00",
       "source": "BBC Technology",
       "category": "Global Tech",
       "lang": "en"
@@ -132,7 +123,7 @@
       "title": "Will self-flying planes transform the skies?",
       "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.010738+00:00",
+      "pubDate": "2026-09-03T09:36:34.312700+00:00",
       "source": "BBC Technology",
       "category": "Global Tech",
       "lang": "en"
@@ -141,7 +132,7 @@
       "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
       "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.010724+00:00",
+      "pubDate": "2026-09-03T09:36:34.312686+00:00",
       "source": "BBC Technology",
       "category": "Global Tech",
       "lang": "en"
@@ -150,7 +141,7 @@
       "title": "Criminals publish data of 8.7m people after airports hack",
       "link": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.010709+00:00",
+      "pubDate": "2026-09-03T09:36:34.312669+00:00",
       "source": "BBC Technology",
       "category": "Global Tech",
       "lang": "en"
@@ -159,7 +150,7 @@
       "title": "Lords call for AI 'kill switch' powers in UK",
       "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.010694+00:00",
+      "pubDate": "2026-09-03T09:36:34.312652+00:00",
       "source": "BBC Technology",
       "category": "Global Tech",
       "lang": "en"
@@ -168,7 +159,7 @@
       "title": "Uber to cut over 3,000 jobs in major global restructuring",
       "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.010678+00:00",
+      "pubDate": "2026-09-03T09:36:34.312636+00:00",
       "source": "BBC Technology",
       "category": "Global Tech",
       "lang": "en"
@@ -177,61 +168,25 @@
       "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
       "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
       "description": "",
-      "pubDate": "2026-09-03T04:42:38.010648+00:00",
+      "pubDate": "2026-09-03T09:36:34.312618+00:00",
       "source": "BBC Technology",
       "category": "Global Tech",
       "lang": "en"
     },
     {
-      "title": "Microsoft will stop finishing your sentences in Word and Outlook",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/microsoft-will-stop-finishing-your-sentences-in-word-and-outlook/5293860",
+      "title": "Watch: BBC travels in self-driving Uber around London",
+      "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.787574+00:00",
-      "source": "The Register",
-      "category": "IT & Dev",
-      "lang": "en"
-    },
-    {
-      "title": "SonicWall's SMA1000 boxes under active attack again",
-      "link": "https://www.theregister.com/security/2026/09/02/sonicwalls-sma1000-boxes-under-active-attack-again/5293969",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:37.787559+00:00",
-      "source": "The Register",
-      "category": "IT & Dev",
-      "lang": "en"
-    },
-    {
-      "title": "Infosec pros say we're not ready to lose control of AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/infosec-pros-say-were-not-ready-to-lose-control-of-ai/5294001",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:37.787545+00:00",
-      "source": "The Register",
-      "category": "IT & Dev",
-      "lang": "en"
-    },
-    {
-      "title": "AI agents carried out every step of this ransomware attack – then left the victim an 80-page security audit",
-      "link": "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:37.787529+00:00",
-      "source": "The Register",
-      "category": "IT & Dev",
-      "lang": "en"
-    },
-    {
-      "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:37.787507+00:00",
-      "source": "The Register",
-      "category": "IT & Dev",
+      "pubDate": "2026-09-03T09:36:34.312585+00:00",
+      "source": "BBC Technology",
+      "category": "Global Tech",
       "lang": "en"
     },
     {
       "title": "AI-assisted mushroom hunting is a recipe for a bad trip",
       "link": "https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.787491+00:00",
+      "pubDate": "2026-09-03T09:36:34.109617+00:00",
       "source": "The Register",
       "category": "IT & Dev",
       "lang": "en"
@@ -240,7 +195,7 @@
       "title": "Microsoft devs rejoice: Union types coming to C# in November",
       "link": "https://www.theregister.com/devops/2026/09/02/microsoft-devs-rejoice-union-types-coming-to-c-in-november/5294056",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.787475+00:00",
+      "pubDate": "2026-09-03T09:36:34.109602+00:00",
       "source": "The Register",
       "category": "IT & Dev",
       "lang": "en"
@@ -249,7 +204,7 @@
       "title": "Claude Mythos only model to complete full cyber kill chain, experts say",
       "link": "https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.787459+00:00",
+      "pubDate": "2026-09-03T09:36:34.109586+00:00",
       "source": "The Register",
       "category": "IT & Dev",
       "lang": "en"
@@ -258,7 +213,7 @@
       "title": "VMware swings its focus back to low-end server virt, promises vSphere Standard upgrade",
       "link": "https://www.theregister.com/virtualization/2026/09/02/vmware-swings-its-focus-back-to-low-end-server-virt-promises-vsphere-standard-upgrade/5294083",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.787441+00:00",
+      "pubDate": "2026-09-03T09:36:34.109570+00:00",
       "source": "The Register",
       "category": "IT & Dev",
       "lang": "en"
@@ -267,88 +222,61 @@
       "title": "Zuck's Muse to Spark joy with open weights release 'soon'",
       "link": "https://www.theregister.com/ai-and-ml/2026/09/02/zucks-muse-to-spark-joy-with-open-weights-release-soon/5294093",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.787405+00:00",
+      "pubDate": "2026-09-03T09:36:34.109554+00:00",
       "source": "The Register",
       "category": "IT & Dev",
       "lang": "en"
     },
     {
-      "title": "Digital scans of more than 153 million driver's licenses leaked to the dark web",
-      "link": "https://www.engadget.com/2249522/digital-scans-of-153-million-drivers-licenses-leaked-to-the-dark-web/",
+      "title": "To keep the AI hacking genie bottled up, try one-way networks",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/03/to-keep-the-ai-hacking-genie-bottled-up-try-one-way-networks/5294121",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.348491+00:00",
-      "source": "Engadget",
-      "category": "Consumer Tech",
+      "pubDate": "2026-09-03T09:36:34.109538+00:00",
+      "source": "The Register",
+      "category": "IT & Dev",
       "lang": "en"
     },
     {
-      "title": "Rare, working Apple I computer heads to auction",
-      "link": "https://www.engadget.com/2249655/rare-working-apple-1-computer-heads-to-auction/",
+      "title": "Terminated employee cost company hundreds of thousands of dollars because nobody revoked access",
+      "link": "https://www.theregister.com/security/2026/09/03/terminated-employee-cost-company-hundreds-of-thousands-of-dollars-because-nobody-revoked-access/5292763",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.348475+00:00",
-      "source": "Engadget",
-      "category": "Consumer Tech",
+      "pubDate": "2026-09-03T09:36:34.109522+00:00",
+      "source": "The Register",
+      "category": "IT & Dev",
       "lang": "en"
     },
     {
-      "title": "Google won't be forced to sell its ad exchange following antitrust ruling",
-      "link": "https://www.engadget.com/2249664/google-wont-be-forced-to-sell-its-ad-exchange-following-antitrust-ruling/",
+      "title": "Your VMware renewal invoice ate your AI budget – what now?",
+      "link": "https://www.theregister.com/virtualization/2026/09/03/sponsored-your-vmware-renewal-invoice-ate-your-ai-budget-what-now/5287907",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.348461+00:00",
-      "source": "Engadget",
-      "category": "Consumer Tech",
+      "pubDate": "2026-09-03T09:36:34.109504+00:00",
+      "source": "The Register",
+      "category": "IT & Dev",
       "lang": "en"
     },
     {
-      "title": "Modding platform Nexus Mods now owns SteamDB",
-      "link": "https://www.engadget.com/2249669/modding-platform-nexus-mods-now-owns-steamdb/",
+      "title": "British wind power to drive Maersk container ship",
+      "link": "https://www.theregister.com/offbeat/2026/09/03/british-wind-power-to-drive-maersk-container-ship/5293962",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.348445+00:00",
-      "source": "Engadget",
-      "category": "Consumer Tech",
+      "pubDate": "2026-09-03T09:36:34.109481+00:00",
+      "source": "The Register",
+      "category": "IT & Dev",
       "lang": "en"
     },
     {
-      "title": "NYC bans the use of generative AI tools in public schools for students through eighth grade",
-      "link": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade/",
+      "title": "UK's Online Safety Act has made 'absolutely no difference,' kids say",
+      "link": "https://www.theregister.com/security/2026/09/03/uks-online-safety-act-has-made-absolutely-no-difference-kids-say/5293893",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.348430+00:00",
-      "source": "Engadget",
-      "category": "Consumer Tech",
-      "lang": "en"
-    },
-    {
-      "title": "How to watch the PlayStation State of Play double header",
-      "link": "https://www.engadget.com/2249884/how-to-watch-the-playstation-state-of-play-double-header/",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:37.348414+00:00",
-      "source": "Engadget",
-      "category": "Consumer Tech",
-      "lang": "en"
-    },
-    {
-      "title": "UN report says global warming will surpass the goal of 1.5 degrees Celsius",
-      "link": "https://www.engadget.com/2249905/un-report-says-global-warming-will-surpass-the-goal-of-1-5-degrees-celsius/",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:37.348398+00:00",
-      "source": "Engadget",
-      "category": "Consumer Tech",
-      "lang": "en"
-    },
-    {
-      "title": "Uber launches first robotaxis in London (with human supervisors)",
-      "link": "https://www.engadget.com/2248610/uber-launches-first-robotaxis-in-london-with-human-supervisors/",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:37.348381+00:00",
-      "source": "Engadget",
-      "category": "Consumer Tech",
+      "pubDate": "2026-09-03T09:36:34.109448+00:00",
+      "source": "The Register",
+      "category": "IT & Dev",
       "lang": "en"
     },
     {
       "title": "What is a cold wallet and how does it work?",
       "link": "https://www.engadget.com/2246424/what-is-cold-wallet-how-works/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.348363+00:00",
+      "pubDate": "2026-09-03T09:36:32.778238+00:00",
       "source": "Engadget",
       "category": "Consumer Tech",
       "lang": "en"
@@ -357,7 +285,79 @@
       "title": "Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack",
       "link": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.348333+00:00",
+      "pubDate": "2026-09-03T09:36:32.778221+00:00",
+      "source": "Engadget",
+      "category": "Consumer Tech",
+      "lang": "en"
+    },
+    {
+      "title": "Alienware's new 25-inch 560Hz gaming monitor is its fastest ever",
+      "link": "https://www.engadget.com/2243965/alienwares-new-25-inch-560hz-gaming-monitor-is-its-fastest-ever/",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.778205+00:00",
+      "source": "Engadget",
+      "category": "Consumer Tech",
+      "lang": "en"
+    },
+    {
+      "title": "Anker's MindBase is a smart home hub, NAS and security guard",
+      "link": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.778189+00:00",
+      "source": "Engadget",
+      "category": "Consumer Tech",
+      "lang": "en"
+    },
+    {
+      "title": "Anker Eufy at IFA 2026: New security cameras, plus a robot vacuum and a robot lawnmower",
+      "link": "https://www.engadget.com/2249106/anker-eufy-at-ifa-2026-new-security-cameras-plus-a-robot-vacuum-and-a-robot-lawnmower/",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.778172+00:00",
+      "source": "Engadget",
+      "category": "Consumer Tech",
+      "lang": "en"
+    },
+    {
+      "title": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
+      "link": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.778154+00:00",
+      "source": "Engadget",
+      "category": "Consumer Tech",
+      "lang": "en"
+    },
+    {
+      "title": "Anker charging gadgets at IFA 2026: Combo chargers, a power bank and more",
+      "link": "https://www.engadget.com/2249913/anker-charging-gadgets-at-ifa-2026/",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.778137+00:00",
+      "source": "Engadget",
+      "category": "Consumer Tech",
+      "lang": "en"
+    },
+    {
+      "title": "Belkin launches three new SoundForm earphones at IFA 2026",
+      "link": "https://www.engadget.com/2250060/belkin-three-new-soundform-earphones-ifa-2026/",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.778119+00:00",
+      "source": "Engadget",
+      "category": "Consumer Tech",
+      "lang": "en"
+    },
+    {
+      "title": "Belkin unveils new large-capacity and solid state power banks",
+      "link": "https://www.engadget.com/2250057/belkin-new-large-capacity-solid-state-power-banks/",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.778100+00:00",
+      "source": "Engadget",
+      "category": "Consumer Tech",
+      "lang": "en"
+    },
+    {
+      "title": "Xiaomi's new passport-style foldable looks shorter and wider than the Galaxy Z Fold 8",
+      "link": "https://www.engadget.com/2250135/xiaomi-fold-18-passport-style-foldable-looks-shorter-and-wider-than-the-galaxy-z-fold-8/",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.778073+00:00",
       "source": "Engadget",
       "category": "Consumer Tech",
       "lang": "en"
@@ -366,7 +366,7 @@
       "title": "A startup claims it’s found a drug to make your blood young",
       "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.216244+00:00",
+      "pubDate": "2026-09-03T09:36:32.718803+00:00",
       "source": "MIT Technology Review",
       "category": "Deep Tech",
       "lang": "en"
@@ -375,7 +375,7 @@
       "title": "How to sign up for a virtual power plant—and decide whether you should",
       "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.216228+00:00",
+      "pubDate": "2026-09-03T09:36:32.718785+00:00",
       "source": "MIT Technology Review",
       "category": "Deep Tech",
       "lang": "en"
@@ -384,7 +384,7 @@
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
       "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.216211+00:00",
+      "pubDate": "2026-09-03T09:36:32.718768+00:00",
       "source": "MIT Technology Review",
       "category": "Deep Tech",
       "lang": "en"
@@ -393,7 +393,7 @@
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.216195+00:00",
+      "pubDate": "2026-09-03T09:36:32.718751+00:00",
       "source": "MIT Technology Review",
       "category": "Deep Tech",
       "lang": "en"
@@ -402,7 +402,7 @@
       "title": "How engineered microbes could help feed the world’s crops",
       "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.216178+00:00",
+      "pubDate": "2026-09-03T09:36:32.718734+00:00",
       "source": "MIT Technology Review",
       "category": "Deep Tech",
       "lang": "en"
@@ -411,7 +411,7 @@
       "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
       "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.216161+00:00",
+      "pubDate": "2026-09-03T09:36:32.718716+00:00",
       "source": "MIT Technology Review",
       "category": "Deep Tech",
       "lang": "en"
@@ -420,7 +420,7 @@
       "title": "Making the AI-powered case for legacy modernization",
       "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.216141+00:00",
+      "pubDate": "2026-09-03T09:36:32.718696+00:00",
       "source": "MIT Technology Review",
       "category": "Deep Tech",
       "lang": "en"
@@ -429,7 +429,7 @@
       "title": "How AI plotted an interstellar journey to Alpha Centauri",
       "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.216126+00:00",
+      "pubDate": "2026-09-03T09:36:32.718680+00:00",
       "source": "MIT Technology Review",
       "category": "Deep Tech",
       "lang": "en"
@@ -438,7 +438,7 @@
       "title": "The Download: AI puzzles and a path to our nearest star system",
       "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.216108+00:00",
+      "pubDate": "2026-09-03T09:36:32.718662+00:00",
       "source": "MIT Technology Review",
       "category": "Deep Tech",
       "lang": "en"
@@ -447,97 +447,97 @@
       "title": "Facilitating AI integration with simplicity at scale",
       "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.216077+00:00",
+      "pubDate": "2026-09-03T09:36:32.718633+00:00",
       "source": "MIT Technology Review",
       "category": "Deep Tech",
       "lang": "en"
     },
     {
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "link": "https://www.wired.com/story/we-vibe-discount-code/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.094033+00:00",
+      "pubDate": "2026-09-03T09:36:32.576093+00:00",
       "source": "Wired",
       "category": "Tech & Science",
       "lang": "en"
     },
     {
-      "title": "Best Sony Headphone Deals: WH-1000XM5 and More (2026)",
-      "link": "https://www.wired.com/story/sony-headphone-deals-september-2026/",
+      "title": "Expedia Coupons: 40% Off",
+      "link": "https://www.wired.com/story/expedia-coupon/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.094016+00:00",
+      "pubDate": "2026-09-03T09:36:32.576075+00:00",
       "source": "Wired",
       "category": "Tech & Science",
       "lang": "en"
     },
     {
-      "title": "The Cybercab Is Almost Here. Now Comes the Hard Part",
-      "link": "https://www.wired.com/story/here-comes-the-tesla-cybercab/",
+      "title": "Vimeo Promo Codes and Discounts: Up to 40% Off This September 2026",
+      "link": "https://www.wired.com/story/vimeo-promo-code/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.094001+00:00",
+      "pubDate": "2026-09-03T09:36:32.576039+00:00",
       "source": "Wired",
       "category": "Tech & Science",
       "lang": "en"
     },
     {
-      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "link": "https://www.wired.com/story/lowes-promo-code/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.093987+00:00",
+      "pubDate": "2026-09-03T09:36:32.576021+00:00",
       "source": "Wired",
       "category": "Tech & Science",
       "lang": "en"
     },
     {
-      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-      "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+      "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
+      "link": "https://www.wired.com/story/lovehoney-discount-code/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.093971+00:00",
+      "pubDate": "2026-09-03T09:36:32.576003+00:00",
       "source": "Wired",
       "category": "Tech & Science",
       "lang": "en"
     },
     {
-      "title": "ICE Plans to Pay $5 Million to Create National Voting Database",
-      "link": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/",
+      "title": "Instacart Promo Code: $15 Off | September 2026",
+      "link": "https://www.wired.com/story/instacart-promo/code/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.093953+00:00",
+      "pubDate": "2026-09-03T09:36:32.575985+00:00",
       "source": "Wired",
       "category": "Tech & Science",
       "lang": "en"
     },
     {
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "title": "HBO Max Promo Code: 50% Off | September 2026",
+      "link": "https://www.wired.com/story/max-promo-code/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.093936+00:00",
+      "pubDate": "2026-09-03T09:36:32.575966+00:00",
       "source": "Wired",
       "category": "Tech & Science",
       "lang": "en"
     },
     {
-      "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
-      "link": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
+      "title": "The 2026 El Niño Is Being ‘Supersized’ as Impacts Worsen",
+      "link": "https://www.wired.com/story/2026-supersized-el-nino-impacts-worsen/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.093917+00:00",
+      "pubDate": "2026-09-03T09:36:32.575947+00:00",
       "source": "Wired",
       "category": "Tech & Science",
       "lang": "en"
     },
     {
-      "title": "Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are",
-      "link": "https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/",
+      "title": "Face Recognition Is Becoming the Norm for Dating Apps",
+      "link": "https://www.wired.com/story/face-recognition-is-becoming-the-norm-for-dating-apps/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.093896+00:00",
+      "pubDate": "2026-09-03T09:36:32.575923+00:00",
       "source": "Wired",
       "category": "Tech & Science",
       "lang": "en"
     },
     {
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
+      "link": "https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.093862+00:00",
+      "pubDate": "2026-09-03T09:36:32.575895+00:00",
       "source": "Wired",
       "category": "Tech & Science",
       "lang": "en"
@@ -546,7 +546,7 @@
       "title": "X shifts US creator payouts from Stripe to X Money",
       "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.014722+00:00",
+      "pubDate": "2026-09-03T09:36:32.413708+00:00",
       "source": "TechCrunch",
       "category": "Startups & Tech",
       "lang": "en"
@@ -555,7 +555,7 @@
       "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
       "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.014707+00:00",
+      "pubDate": "2026-09-03T09:36:32.413690+00:00",
       "source": "TechCrunch",
       "category": "Startups & Tech",
       "lang": "en"
@@ -564,7 +564,7 @@
       "title": "Delivery Hero board backs Uber’s $15B takeover bid",
       "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.014689+00:00",
+      "pubDate": "2026-09-03T09:36:32.413670+00:00",
       "source": "TechCrunch",
       "category": "Startups & Tech",
       "lang": "en"
@@ -573,7 +573,7 @@
       "title": "It sure looks like hackers breached a major ID card verification service",
       "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.014672+00:00",
+      "pubDate": "2026-09-03T09:36:32.413651+00:00",
       "source": "TechCrunch",
       "category": "Startups & Tech",
       "lang": "en"
@@ -582,7 +582,7 @@
       "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
       "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.014655+00:00",
+      "pubDate": "2026-09-03T09:36:32.413631+00:00",
       "source": "TechCrunch",
       "category": "Startups & Tech",
       "lang": "en"
@@ -591,7 +591,7 @@
       "title": "OpenAI’s new reasoning technique alarms AI safety experts",
       "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.014635+00:00",
+      "pubDate": "2026-09-03T09:36:32.413610+00:00",
       "source": "TechCrunch",
       "category": "Startups & Tech",
       "lang": "en"
@@ -600,7 +600,7 @@
       "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
       "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.014618+00:00",
+      "pubDate": "2026-09-03T09:36:32.413591+00:00",
       "source": "TechCrunch",
       "category": "Startups & Tech",
       "lang": "en"
@@ -609,7 +609,7 @@
       "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
       "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.014601+00:00",
+      "pubDate": "2026-09-03T09:36:32.413571+00:00",
       "source": "TechCrunch",
       "category": "Startups & Tech",
       "lang": "en"
@@ -618,7 +618,7 @@
       "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
       "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.014576+00:00",
+      "pubDate": "2026-09-03T09:36:32.413547+00:00",
       "source": "TechCrunch",
       "category": "Startups & Tech",
       "lang": "en"
@@ -627,7 +627,7 @@
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:37.014547+00:00",
+      "pubDate": "2026-09-03T09:36:32.413521+00:00",
       "source": "TechCrunch",
       "category": "Startups & Tech",
       "lang": "en"
@@ -636,7 +636,7 @@
       "title": "Is Russia's rival to Starlink failing? Here's what we know.",
       "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.891869+00:00",
+      "pubDate": "2026-09-03T09:36:32.354770+00:00",
       "source": "Ars Technica",
       "category": "Tech Analysis",
       "lang": "en"
@@ -645,7 +645,7 @@
       "title": "The Army just used a 20-kilowatt laser to take out three drones",
       "link": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.891853+00:00",
+      "pubDate": "2026-09-03T09:36:32.354753+00:00",
       "source": "Ars Technica",
       "category": "Tech Analysis",
       "lang": "en"
@@ -654,7 +654,7 @@
       "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
       "link": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.891837+00:00",
+      "pubDate": "2026-09-03T09:36:32.354735+00:00",
       "source": "Ars Technica",
       "category": "Tech Analysis",
       "lang": "en"
@@ -663,7 +663,7 @@
       "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
       "link": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.891818+00:00",
+      "pubDate": "2026-09-03T09:36:32.354714+00:00",
       "source": "Ars Technica",
       "category": "Tech Analysis",
       "lang": "en"
@@ -672,7 +672,7 @@
       "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
       "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.891787+00:00",
+      "pubDate": "2026-09-03T09:36:32.354695+00:00",
       "source": "Ars Technica",
       "category": "Tech Analysis",
       "lang": "en"
@@ -681,7 +681,7 @@
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
       "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.891769+00:00",
+      "pubDate": "2026-09-03T09:36:32.354676+00:00",
       "source": "Ars Technica",
       "category": "Tech Analysis",
       "lang": "en"
@@ -690,7 +690,7 @@
       "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
       "link": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.891752+00:00",
+      "pubDate": "2026-09-03T09:36:32.354657+00:00",
       "source": "Ars Technica",
       "category": "Tech Analysis",
       "lang": "en"
@@ -699,7 +699,7 @@
       "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
       "link": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.891734+00:00",
+      "pubDate": "2026-09-03T09:36:32.354638+00:00",
       "source": "Ars Technica",
       "category": "Tech Analysis",
       "lang": "en"
@@ -708,7 +708,7 @@
       "title": "I rented a car, and within hours, my driver's license was for sale",
       "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.891715+00:00",
+      "pubDate": "2026-09-03T09:36:32.354618+00:00",
       "source": "Ars Technica",
       "category": "Tech Analysis",
       "lang": "en"
@@ -717,52 +717,16 @@
       "title": "Spending deal comes with a bonus: Blocking political control of grants",
       "link": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.891684+00:00",
+      "pubDate": "2026-09-03T09:36:32.354590+00:00",
       "source": "Ars Technica",
       "category": "Tech Analysis",
       "lang": "en"
     },
     {
-      "title": "人类，越来越难理解 AI",
-      "link": "http://www.geekpark.net/news/369609",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:36.629062+00:00",
-      "source": "极客公园",
-      "category": "极客创新",
-      "lang": "zh"
-    },
-    {
-      "title": "OpenAI 内部，AI 建立了三代「文明」",
-      "link": "http://www.geekpark.net/news/369610",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:36.629049+00:00",
-      "source": "极客公园",
-      "category": "极客创新",
-      "lang": "zh"
-    },
-    {
-      "title": "AirPods 5 或将于 9 月发布；17.6 万，特斯拉港澳车型降价；「网抑云」登陆鸿蒙系统｜极客早知道",
-      "link": "http://www.geekpark.net/news/369559",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:36.629035+00:00",
-      "source": "极客公园",
-      "category": "极客创新",
-      "lang": "zh"
-    },
-    {
-      "title": "流量红利退潮，快手想用 AI 和老友们破局",
-      "link": "http://www.geekpark.net/news/369631",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:36.629020+00:00",
-      "source": "极客公园",
-      "category": "极客创新",
-      "lang": "zh"
-    },
-    {
       "title": "库克告别苹果 CEO；罗永浩官宣年底科技大会；华为、小米、荣耀手机今日集体调价｜极客早知道",
       "link": "http://www.geekpark.net/news/369634",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.629006+00:00",
+      "pubDate": "2026-09-03T09:36:32.126090+00:00",
       "source": "极客公园",
       "category": "极客创新",
       "lang": "zh"
@@ -771,7 +735,7 @@
       "title": "苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线",
       "link": "http://www.geekpark.net/news/369690",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.628992+00:00",
+      "pubDate": "2026-09-03T09:36:32.126072+00:00",
       "source": "极客公园",
       "category": "极客创新",
       "lang": "zh"
@@ -780,7 +744,7 @@
       "title": "硬件加强版「WorkBuddy」，拿下数亿融资，瞄向你的终极上下文",
       "link": "http://www.geekpark.net/news/369718",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.628976+00:00",
+      "pubDate": "2026-09-03T09:36:32.126054+00:00",
       "source": "极客公园",
       "category": "极客创新",
       "lang": "zh"
@@ -789,7 +753,7 @@
       "title": "从几百元，涨到一万元，婴儿床正在被「具身智能」重新定价",
       "link": "http://www.geekpark.net/news/369719",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.628960+00:00",
+      "pubDate": "2026-09-03T09:36:32.126026+00:00",
       "source": "极客公园",
       "category": "极客创新",
       "lang": "zh"
@@ -798,7 +762,7 @@
       "title": "对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型",
       "link": "http://www.geekpark.net/news/369724",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.628943+00:00",
+      "pubDate": "2026-09-03T09:36:32.126013+00:00",
       "source": "极客公园",
       "category": "极客创新",
       "lang": "zh"
@@ -807,7 +771,43 @@
       "title": "马斯克：火箭再炸一次，SpaceX 就没了；小米「阔折叠」全球首秀；豆包工作支持多 Agent 和屏幕操作 | 极客早知道",
       "link": "http://www.geekpark.net/news/369745",
       "description": "",
-      "pubDate": "2026-09-03T04:42:36.628908+00:00",
+      "pubDate": "2026-09-03T09:36:32.125998+00:00",
+      "source": "极客公园",
+      "category": "极客创新",
+      "lang": "zh"
+    },
+    {
+      "title": "AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」",
+      "link": "http://www.geekpark.net/news/369767",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.125981+00:00",
+      "source": "极客公园",
+      "category": "极客创新",
+      "lang": "zh"
+    },
+    {
+      "title": "当 AI 开始理解「人不是标签」：阿里妈妈如何重构广告定向",
+      "link": "http://www.geekpark.net/news/369777",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.125965+00:00",
+      "source": "极客公园",
+      "category": "极客创新",
+      "lang": "zh"
+    },
+    {
+      "title": "智谱和 MiniMax，把大模型做成了两种生意",
+      "link": "http://www.geekpark.net/news/369775",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.125947+00:00",
+      "source": "极客公园",
+      "category": "极客创新",
+      "lang": "zh"
+    },
+    {
+      "title": "成立不到一年连融三轮，专治失眠的 AI 床头灯「火」了",
+      "link": "http://www.geekpark.net/news/369768",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:32.125914+00:00",
       "source": "极客公园",
       "category": "极客创新",
       "lang": "zh"
@@ -816,7 +816,7 @@
       "title": "地表最强四缸守不住了！丰田 GR 硬刚 AMG，500 马力小跑车即将入场",
       "link": "https://www.ifanr.com/1677994?utm_source=rss&utm_medium=rss&utm_campaign=",
       "description": "",
-      "pubDate": "2026-09-03T04:42:30.802983+00:00",
+      "pubDate": "2026-09-03T09:36:28.280897+00:00",
       "source": "爱范儿",
       "category": "数码生活",
       "lang": "zh"
@@ -825,7 +825,7 @@
       "title": "3899 元！戴森发布 AI 牙刷：有水牙线不够，还要塞个摄像头",
       "link": "https://www.ifanr.com/1678053?utm_source=rss&utm_medium=rss&utm_campaign=",
       "description": "",
-      "pubDate": "2026-09-03T04:42:30.802965+00:00",
+      "pubDate": "2026-09-03T09:36:28.280880+00:00",
       "source": "爱范儿",
       "category": "数码生活",
       "lang": "zh"
@@ -834,7 +834,7 @@
       "title": "早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布",
       "link": "https://www.ifanr.com/1678080?utm_source=rss&utm_medium=rss&utm_campaign=",
       "description": "",
-      "pubDate": "2026-09-03T04:42:30.802949+00:00",
+      "pubDate": "2026-09-03T09:36:28.280864+00:00",
       "source": "爱范儿",
       "category": "数码生活",
       "lang": "zh"
@@ -843,7 +843,7 @@
       "title": "13 年前被喷爆的 XBOX 功能，怎么成了游戏光盘最后的救命稻草？",
       "link": "https://www.ifanr.com/1677973?utm_source=rss&utm_medium=rss&utm_campaign=",
       "description": "",
-      "pubDate": "2026-09-03T04:42:30.802934+00:00",
+      "pubDate": "2026-09-03T09:36:28.280847+00:00",
       "source": "爱范儿",
       "category": "数码生活",
       "lang": "zh"
@@ -852,7 +852,7 @@
       "title": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
       "link": "https://www.ifanr.com/1678079?utm_source=rss&utm_medium=rss&utm_campaign=",
       "description": "",
-      "pubDate": "2026-09-03T04:42:30.802916+00:00",
+      "pubDate": "2026-09-03T09:36:28.280830+00:00",
       "source": "爱范儿",
       "category": "数码生活",
       "lang": "zh"
@@ -861,7 +861,7 @@
       "title": "李飞飞的 World Labs，把赛博朋克的「超梦」做出来了",
       "link": "https://www.ifanr.com/1678150?utm_source=rss&utm_medium=rss&utm_campaign=",
       "description": "",
-      "pubDate": "2026-09-03T04:42:30.802901+00:00",
+      "pubDate": "2026-09-03T09:36:28.280814+00:00",
       "source": "爱范儿",
       "category": "数码生活",
       "lang": "zh"
@@ -870,7 +870,7 @@
       "title": "比亚迪六座新旗舰！海狮 08 正式上市，22.99 万元起",
       "link": "https://www.ifanr.com/1678169?utm_source=rss&utm_medium=rss&utm_campaign=",
       "description": "",
-      "pubDate": "2026-09-03T04:42:30.802884+00:00",
+      "pubDate": "2026-09-03T09:36:28.280795+00:00",
       "source": "爱范儿",
       "category": "数码生活",
       "lang": "zh"
@@ -879,7 +879,7 @@
       "title": "50.98 万元！新理想 MEGA 发布：前两排零重力座椅，加入后轮转向，还要推出右舵版",
       "link": "https://www.ifanr.com/1678181?utm_source=rss&utm_medium=rss&utm_campaign=",
       "description": "",
-      "pubDate": "2026-09-03T04:42:30.802866+00:00",
+      "pubDate": "2026-09-03T09:36:28.280777+00:00",
       "source": "爱范儿",
       "category": "数码生活",
       "lang": "zh"
@@ -888,7 +888,7 @@
       "title": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
       "link": "https://www.ifanr.com/1678197?utm_source=rss&utm_medium=rss&utm_campaign=",
       "description": "",
-      "pubDate": "2026-09-03T04:42:30.802846+00:00",
+      "pubDate": "2026-09-03T09:36:28.280757+00:00",
       "source": "爱范儿",
       "category": "数码生活",
       "lang": "zh"
@@ -897,25 +897,16 @@
       "title": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
       "link": "https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=",
       "description": "",
-      "pubDate": "2026-09-03T04:42:30.802809+00:00",
+      "pubDate": "2026-09-03T09:36:28.280720+00:00",
       "source": "爱范儿",
       "category": "数码生活",
-      "lang": "zh"
-    },
-    {
-      "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
-      "link": "https://sspai.com/post/111081",
-      "description": "",
-      "pubDate": "2026-09-03T04:42:29.147869+00:00",
-      "source": "少数派",
-      "category": "效率工具",
       "lang": "zh"
     },
     {
       "title": "开学季｜值得关注的官翻渠道汇总（2026）",
       "link": "https://sspai.com/post/114062",
       "description": "",
-      "pubDate": "2026-09-03T04:42:29.147855+00:00",
+      "pubDate": "2026-09-03T09:36:27.203292+00:00",
       "source": "少数派",
       "category": "效率工具",
       "lang": "zh"
@@ -924,7 +915,7 @@
       "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
       "link": "https://sspai.com/post/114071",
       "description": "",
-      "pubDate": "2026-09-03T04:42:29.147842+00:00",
+      "pubDate": "2026-09-03T09:36:27.203278+00:00",
       "source": "少数派",
       "category": "效率工具",
       "lang": "zh"
@@ -933,7 +924,7 @@
       "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
       "link": "https://sspai.com/post/114078",
       "description": "",
-      "pubDate": "2026-09-03T04:42:29.147829+00:00",
+      "pubDate": "2026-09-03T09:36:27.203262+00:00",
       "source": "少数派",
       "category": "效率工具",
       "lang": "zh"
@@ -942,7 +933,7 @@
       "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
       "link": "https://sspai.com/post/114093",
       "description": "",
-      "pubDate": "2026-09-03T04:42:29.147814+00:00",
+      "pubDate": "2026-09-03T09:36:27.203246+00:00",
       "source": "少数派",
       "category": "效率工具",
       "lang": "zh"
@@ -951,7 +942,7 @@
       "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
       "link": "https://sspai.com/post/113581",
       "description": "",
-      "pubDate": "2026-09-03T04:42:29.147784+00:00",
+      "pubDate": "2026-09-03T09:36:27.203230+00:00",
       "source": "少数派",
       "category": "效率工具",
       "lang": "zh"
@@ -960,7 +951,7 @@
       "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
       "link": "https://sspai.com/post/80562",
       "description": "",
-      "pubDate": "2026-09-03T04:42:29.147770+00:00",
+      "pubDate": "2026-09-03T09:36:27.203214+00:00",
       "source": "少数派",
       "category": "效率工具",
       "lang": "zh"
@@ -969,7 +960,7 @@
       "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？",
       "link": "https://sspai.com/post/114084",
       "description": "",
-      "pubDate": "2026-09-03T04:42:29.147754+00:00",
+      "pubDate": "2026-09-03T09:36:27.203197+00:00",
       "source": "少数派",
       "category": "效率工具",
       "lang": "zh"
@@ -978,7 +969,7 @@
       "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
       "link": "https://sspai.com/post/114113",
       "description": "",
-      "pubDate": "2026-09-03T04:42:29.147738+00:00",
+      "pubDate": "2026-09-03T09:36:27.203181+00:00",
       "source": "少数派",
       "category": "效率工具",
       "lang": "zh"
@@ -987,187 +978,196 @@
       "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
       "link": "https://sspai.com/post/113159",
       "description": "",
-      "pubDate": "2026-09-03T04:42:29.147702+00:00",
+      "pubDate": "2026-09-03T09:36:27.203161+00:00",
       "source": "少数派",
       "category": "效率工具",
       "lang": "zh"
     },
     {
-      "title": "雷军：Xiaomi 18 Fold 中折叠手机搭载 6000mAh 小米金沙江电池",
-      "link": "https://www.ithome.com/0/997/829.htm",
+      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+      "link": "https://sspai.com/post/113998",
       "description": "",
-      "pubDate": "2026-09-03T04:42:26.629322+00:00",
+      "pubDate": "2026-09-03T09:36:27.203130+00:00",
+      "source": "少数派",
+      "category": "效率工具",
+      "lang": "zh"
+    },
+    {
+      "title": "8 月国产车保值率首次超越日系，跃居第一",
+      "link": "https://www.ithome.com/0/998/041.htm",
+      "description": "",
+      "pubDate": "2026-09-03T09:36:24.654666+00:00",
       "source": "IT之家",
       "category": "科技资讯",
       "lang": "zh"
     },
     {
-      "title": "荣耀学习空间手机版官宣适配 MagicOS 11 系统，相关机型 9 月 15 日起陆续开放升级",
-      "link": "https://www.ithome.com/0/997/830.htm",
+      "title": "奇瑞尹同跃：出海应去“深耕”而非“收割”，要做当地经济的参与者、贡献者",
+      "link": "https://www.ithome.com/0/998/042.htm",
       "description": "",
-      "pubDate": "2026-09-03T04:42:26.629306+00:00",
+      "pubDate": "2026-09-03T09:36:24.654651+00:00",
       "source": "IT之家",
       "category": "科技资讯",
       "lang": "zh"
     },
     {
-      "title": "忆联正式推出 UM301a 固态硬盘：DRAM-less 服务器 M.2 启动盘",
-      "link": "https://www.ithome.com/0/997/831.htm",
+      "title": "又要到周五啦：20:00 速领 60 元叠加神券，京东黑五赛博抢鸡蛋",
+      "link": "https://www.ithome.com/0/998/043.htm",
       "description": "",
-      "pubDate": "2026-09-03T04:42:26.629289+00:00",
+      "pubDate": "2026-09-03T09:36:24.654635+00:00",
       "source": "IT之家",
       "category": "科技资讯",
       "lang": "zh"
     },
     {
-      "title": "谷歌 Googlebook 应用 Look up 偷跑：聚焦上下文搜索、追踪航班信息等",
-      "link": "https://www.ithome.com/0/997/832.htm",
+      "title": "保时捷重组销售架构，销售区域数量从 5 个缩减至 4 个",
+      "link": "https://www.ithome.com/0/998/044.htm",
       "description": "",
-      "pubDate": "2026-09-03T04:42:26.629269+00:00",
+      "pubDate": "2026-09-03T09:36:24.654613+00:00",
       "source": "IT之家",
       "category": "科技资讯",
       "lang": "zh"
     },
     {
-      "title": "vivo X500 系列标准版手机官宣搭载 X300 Pro 同款主摄传感器",
-      "link": "https://www.ithome.com/0/997/842.htm",
+      "title": "小米 18 Fold 中折叠手机亮相 IFA 2026，真机配色很抢眼",
+      "link": "https://www.ithome.com/0/998/045.htm",
       "description": "",
-      "pubDate": "2026-09-03T04:42:26.629254+00:00",
+      "pubDate": "2026-09-03T09:36:24.654592+00:00",
       "source": "IT之家",
       "category": "科技资讯",
       "lang": "zh"
     },
     {
-      "title": "Anthropic 升级 Claude Code / Cowork，可后台操控用户 Mac",
-      "link": "https://www.ithome.com/0/997/852.htm",
+      "title": "追风者 EX5 PLUS / MAX 硬件分舱机箱上架，含定制液冷 1099 元起",
+      "link": "https://www.ithome.com/0/998/046.htm",
       "description": "",
-      "pubDate": "2026-09-03T04:42:26.629239+00:00",
+      "pubDate": "2026-09-03T09:36:24.654567+00:00",
       "source": "IT之家",
       "category": "科技资讯",
       "lang": "zh"
     },
     {
-      "title": "特斯拉就 2023 年 Autopilot 致死诉讼达成和解，避免陪审团审判",
-      "link": "https://www.ithome.com/0/997/855.htm",
+      "title": "继鸿蒙之后，腾讯 WorkBuddy 再上线银河麒麟、统信操作系统",
+      "link": "https://www.ithome.com/0/998/048.htm",
       "description": "",
-      "pubDate": "2026-09-03T04:42:26.629220+00:00",
+      "pubDate": "2026-09-03T09:36:24.649261+00:00",
       "source": "IT之家",
       "category": "科技资讯",
       "lang": "zh"
     },
     {
-      "title": "报道称 2026Q2 印度成全球第四大 iPhone 市场，出货量占比 6.25%",
-      "link": "https://www.ithome.com/0/997/856.htm",
+      "title": "消息称小鹏机器人将采用固液电池方案推进量产，已定点一家二线企业",
+      "link": "https://www.ithome.com/0/998/051.htm",
       "description": "",
-      "pubDate": "2026-09-03T04:42:26.629197+00:00",
+      "pubDate": "2026-09-03T09:36:24.649242+00:00",
       "source": "IT之家",
       "category": "科技资讯",
       "lang": "zh"
     },
     {
-      "title": "小米玄戒 O3 纪念铝板亮相：雷军签名，内嵌芯片",
-      "link": "https://www.ithome.com/0/997/857.htm",
+      "title": "小米“口袋吉他”配件曝光，适配小米 18 系列手机背面副屏",
+      "link": "https://www.ithome.com/0/998/052.htm",
       "description": "",
-      "pubDate": "2026-09-03T04:42:26.622430+00:00",
+      "pubDate": "2026-09-03T09:36:24.649224+00:00",
       "source": "IT之家",
       "category": "科技资讯",
       "lang": "zh"
     },
     {
-      "title": "奥迪创新技术中心在上海成立：专为 AUDI 品牌打造，将开发四款全新车型",
-      "link": "https://www.ithome.com/0/997/859.htm",
+      "title": "宁德时代曾毓群：做出一块电池不难，难的是做十亿块一样好的电池",
+      "link": "https://www.ithome.com/0/998/053.htm",
       "description": "",
-      "pubDate": "2026-09-03T04:42:26.622385+00:00",
+      "pubDate": "2026-09-03T09:36:24.649184+00:00",
       "source": "IT之家",
       "category": "科技资讯",
       "lang": "zh"
     },
     {
-      "title": "The best tech and gadgets announced at IFA so far",
-      "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-      "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - in...",
-      "pubDate": "2026-09-02T20:42:59-04:00",
+      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+      "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+      "description": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The ...",
+      "pubDate": "2026-09-03T04:59:09-04:00",
       "source": "The Verge",
       "category": "Tech News",
       "lang": "en"
     },
     {
-      "title": "Uber beats Waymo as first to launch robotaxis in London",
-      "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-      "description": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK la...",
-      "pubDate": "2026-09-02T17:31:46-04:00",
+      "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+      "link": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+      "description": "A projector for people who can afford to call this a “man cave.” | Image: Awol Vision Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promi...",
+      "pubDate": "2026-09-03T04:31:49-04:00",
       "source": "The Verge",
       "category": "Tech News",
       "lang": "en"
     },
     {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per m...",
-      "pubDate": "2026-09-02T16:11:40-04:00",
+      "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+      "link": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+      "description": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside...",
+      "pubDate": "2026-09-03T04:11:14-04:00",
       "source": "The Verge",
       "category": "Tech News",
       "lang": "en"
     },
     {
-      "title": "Here are some of REI’s best Labor Day sale deals",
-      "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-      "description": "The discounted Garmin InReach 3 Mini can help you stay in touch when you’re out in the wilderness. | Image: Garmin Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many ...",
-      "pubDate": "2026-09-02T14:56:59-04:00",
+      "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
+      "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+      "description": "Peace, man. | Image: Anker Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing to enhance whatever sl...",
+      "pubDate": "2026-09-03T03:42:25-04:00",
       "source": "The Verge",
       "category": "Tech News",
       "lang": "en"
     },
     {
-      "title": "1Password wades into a right-wing mess after funding a Linux project",
-      "link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-      "description": "David Faugno, CEO at 1Password, at the Web Summit conference in Lisbon, Portugal, on November 11th, 2025. | Photo: Zed Jameson / Bloomberg via Getty Image 1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hanss...",
-      "pubDate": "2026-09-02T14:48:14-04:00",
+      "title": "Philips Hue adds Nanoleaf’s light panels to its ecosystem with a $40 module",
+      "link": "https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module",
+      "description": "Nanoleaf’s colorful wall panels will work in the Hue app thanks to a partnership between the two companies. | Photo by Jennifer Pattison Tuohy / The Verge Philips Hue is finally adding wall panels into its smart lighting portfolio. But instead of developing its own, it's partnered with longtime riva...",
+      "pubDate": "2026-09-03T03:33:00-04:00",
       "source": "The Verge",
       "category": "Tech News",
       "lang": "en"
     },
     {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to com...",
-      "pubDate": "2026-09-02T13:52:56-04:00",
+      "title": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
+      "link": "https://www.theverge.com/tech/986330/soundcore-headphones-earbuds-announcement-ifa-2026",
+      "description": "The Soundcore Space 2 Pro will be the first headphones to run on Anker’s Thus chip. | Image: Soundcore After introducing the Thus processing chip in April and releasing it with the Liberty 5 Pro series earbuds, Soundcore is bringing it to more audio products. The Thus chip is behind the best call qu...",
+      "pubDate": "2026-09-03T03:26:37-04:00",
       "source": "The Verge",
       "category": "Tech News",
       "lang": "en"
     },
     {
-      "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
-      "link": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
-      "description": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spaceship-looking pod as a Range Rover. Sometimes fam...",
-      "pubDate": "2026-09-02T13:01:08-04:00",
+      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+      "link": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "description": "The Anker MindBase offers a local solution for advanced AI processing of camera footage and is a smart home hub that supports Matter. | Image: Anker Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can p...",
+      "pubDate": "2026-09-03T02:18:09-04:00",
       "source": "The Verge",
       "category": "Tech News",
       "lang": "en"
     },
     {
-      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI secur...",
-      "pubDate": "2026-09-02T12:40:50-04:00",
+      "title": "Anker announces its first over-the-counter hearing aids",
+      "link": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
+      "description": "Anker’s first OTC hearing aids, powered by the Thus chip, are expected in coming months. | Image: Anker In what could be fortuitous timing for hearing aid users, Anker announced its first over-the-counter (OTC) hearing aids at IFA 2026. It was only a couple months ago when LXE Hearing, the parent co...",
+      "pubDate": "2026-09-02T13:12:13-04:00",
       "source": "The Verge",
       "category": "Tech News",
       "lang": "en"
     },
     {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"bi...",
-      "pubDate": "2026-09-02T12:12:25-04:00",
+      "title": "Belkin’s first trackers come ready to attach to your gear.",
+      "link": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+      "description": "Belkin’s SureFind Loop Cable Tag tracker includes a removable USB-C charging cable. | Image: Belkin After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking...",
+      "pubDate": "2026-09-02T11:38:04-04:00",
       "source": "The Verge",
       "category": "Tech News",
       "lang": "en"
     },
     {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "description": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video ...",
-      "pubDate": "2026-09-02T11:47:03-04:00",
+      "title": "Anker’s new printer works directly on fabrics",
+      "link": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+      "description": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print directly on fabrics. With an expected launch sometime in the spring of 2027, Anker has...",
+      "pubDate": "2026-09-02T10:34:46-04:00",
       "source": "The Verge",
       "category": "Tech News",
       "lang": "en"
